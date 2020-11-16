@@ -1,1 +1,2 @@
 # Hamburger
+A hamburger is a sandwich consisting of one or more pattiesof ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be fried, grilled, smoked or flame broiled.
